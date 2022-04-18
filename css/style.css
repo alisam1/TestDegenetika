@@ -1,0 +1,37 @@
+.price__button, .more__button {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+    border-radius: .25rem;
+    border-width: 1px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.price__info, .more__info {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+    border-radius: .25rem;
+    border-width: 1px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
